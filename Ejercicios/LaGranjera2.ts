@@ -1,0 +1,12 @@
+console.log("_Ejercicio N° 2_");
+console.log("Avanzar 1 paso");
+console.log("Llenar 1 hueco");
+console.log("Avanzar 1 paso");
+console.log("Avanzar 1 paso");
+console.log("Avanzar 1 paso");
+console.log("Llenar 1 hueco");
+console.log("Avanzar 1 paso");
+console.log("Quitar 1 pila");
+console.log("Avanzar 1 paso");
+console.log("Quitar 1 pila");
+console.log("¡¡Felicitaciones!!");

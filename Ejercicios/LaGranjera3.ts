@@ -1,0 +1,10 @@
+console.log("_Ejercicio N° 3_");
+console.log("Girar a la izquierda 90°");
+console.log("Avanzar 1 paso");
+console.log("Girar a la derecha 90°");
+console.log("Avanzar 1 paso");
+console.log("Avanzar 1 paso");
+console.log("Girar a la derecha 90°");
+console.log("Avanzar 1 paso");
+console.log("Quitar pila 1");
+console.log("¡¡Felicitaciones!!");
